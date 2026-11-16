@@ -1,0 +1,10 @@
+# Keil 编译产生的垃圾文件
+Objects/
+Listings/
+*.hex
+*.bin
+*.axf
+*.map
+*.uvguix.*
+*.bak
+*.dep
